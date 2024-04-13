@@ -1,0 +1,1 @@
+Please load sentiment model by the following link: https://disk.yandex.ru/d/iJfnLSAo59J7bA and put it to ```final_solution/sentiment.pkl```
